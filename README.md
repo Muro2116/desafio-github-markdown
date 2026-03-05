@@ -1,2 +1,9 @@
-# desafio-github-markdown
-Curso Formacao Github Certification DIO 
+# Atividades Github Certification
+
+Repositório utilizado para as atividades do curso Github Certification.
+
+---
+
+# Tecnologias Utilizadas
+- Markdown
+- Github
